@@ -6,6 +6,6 @@ cask 'virtualbox' do
   name 'VirtualBox'
   homepage 'https://www.virtualbox.org/'
   
-  app 'VirtualBox.app'
+  app 'VirtualBox.pkg'
   
 end
