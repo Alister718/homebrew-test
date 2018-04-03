@@ -6,6 +6,6 @@ cask 'virtualbox' do
   name 'VirtualBox'
   homepage 'https://www.virtualbox.org/'
   
-  pkg 'VirtualBox.pkg'
+  sudo pkg 'VirtualBox.pkg'
   
 end
