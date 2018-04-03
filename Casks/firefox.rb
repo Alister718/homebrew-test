@@ -7,4 +7,5 @@ cask 'firefox' do
   homepage 'https://www.firefox.org/'
   
   app 'Firefox.app'
+  
 end
