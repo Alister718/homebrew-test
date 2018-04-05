@@ -6,6 +6,6 @@ cask 'test2' do
   name 'test2'
   homepage 'https://www.oracle.org/'
  
-  pkg 'Java 8 Update 161.pkg'
+  dmg 'test2--latest.dmg'
   
 end
