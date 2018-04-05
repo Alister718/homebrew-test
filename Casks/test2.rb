@@ -6,6 +6,6 @@ cask 'test2' do
   name 'test2'
   homepage 'https://www.oracle.org/'
   
-  dmg jre-8u161-macosx-x64
+  dmg 'jre-8u161-macosx-x64.dmg'
   
 end
