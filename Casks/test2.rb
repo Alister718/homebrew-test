@@ -7,5 +7,6 @@ cask 'test2' do
   homepage 'https://www.oracle.org/'
   
   dmg 'jre-8u161-macosx-x64.dmg'
+  pkg 'Java 8 Update 161.pkg'
   
 end
